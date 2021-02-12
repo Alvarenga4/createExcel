@@ -1,0 +1,19 @@
+{
+  "app": {
+    "providerSlug": "seguros-unimed",
+    "textFile": {
+      "bucket": "arn:aws:s3:us-east-2:830701880145:accesspoint/hello-word",
+      "key": "teste.txt"
+    },
+    "jsonFiles": {
+      "billing": {
+        "bucket": "arn:aws:s3:us-east-2:830701880145:accesspoint/hello-word",
+        "key": "billing.json"
+      },
+      "unprocessable": {
+        "bucket": "arn:aws:s3:us-east-2:830701880145:accesspoint/hello-word",
+        "key": "unprocessable.json"
+      }    
+    }
+  }
+}

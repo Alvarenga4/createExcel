@@ -1,0 +1,847 @@
+{
+  "company": {
+    "id": "075bc8899ea9f527b763ab37fceeff5f",
+    "name": "bradesco-seguros"
+  },
+  "companyGroup": {
+    "id": "6a204bd89f3c8348afd5c77c717a097a",
+    "name": "Vitta"
+  },
+  "tax": 1200.0,
+  "taxInstallment": 2,
+  "conditions": [
+    {
+      "product": {
+        "id": "915ed2e20e44922c1f27751e6c2a356b",
+        "code": "CORPORATIVO SUPERIOR ENF",
+        "name": "Essencial (enf.)"
+      },
+      "age": {
+        "start": 0,
+        "end": 18
+      },
+      "over": 10.0
+    },
+    {
+      "product": {
+        "id": "915ed2e20e44922c1f27751e6c2a356b",
+        "code": "CORPORATIVO SUPERIOR ENF",
+        "name": "Essencial (enf.)"
+      },
+      "age": {
+        "start": 19,
+        "end": 23
+      },
+      "over": 12.0
+    },
+    {
+      "product": {
+        "id": "915ed2e20e44922c1f27751e6c2a356b",
+        "code": "CORPORATIVO SUPERIOR ENF",
+        "name": "Essencial (enf.)"
+      },
+      "age": {
+        "start": 24,
+        "end": 28
+      },
+      "over": 12.0
+    },
+    {
+      "product": {
+        "id": "915ed2e20e44922c1f27751e6c2a356b",
+        "code": "CORPORATIVO SUPERIOR ENF",
+        "name": "Essencial (enf.)"
+      },
+      "age": {
+        "start": 29,
+        "end": 33
+      },
+      "over": 9.0
+    },
+    {
+      "product": {
+        "id": "915ed2e20e44922c1f27751e6c2a356b",
+        "code": "CORPORATIVO SUPERIOR ENF",
+        "name": "Essencial (enf.)"
+      },
+      "age": {
+        "start": 34,
+        "end": 38
+      },
+      "over": 9.0
+    },
+    {
+      "product": {
+        "id": "915ed2e20e44922c1f27751e6c2a356b",
+        "code": "CORPORATIVO SUPERIOR ENF",
+        "name": "Essencial (enf.)"
+      },
+      "age": {
+        "start": 39,
+        "end": 43
+      },
+      "over": 9.0
+    },
+    {
+      "product": {
+        "id": "915ed2e20e44922c1f27751e6c2a356b",
+        "code": "CORPORATIVO SUPERIOR ENF",
+        "name": "Essencial (enf.)"
+      },
+      "age": {
+        "start": 44,
+        "end": 48
+      },
+      "over": 10.0
+    },
+    {
+      "product": {
+        "id": "915ed2e20e44922c1f27751e6c2a356b",
+        "code": "CORPORATIVO SUPERIOR ENF",
+        "name": "Essencial (enf.)"
+      },
+      "age": {
+        "start": 49,
+        "end": 53
+      },
+      "over": 12.0
+    },
+    {
+      "product": {
+        "id": "915ed2e20e44922c1f27751e6c2a356b",
+        "code": "CORPORATIVO SUPERIOR ENF",
+        "name": "Essencial (enf.)"
+      },
+      "age": {
+        "start": 54,
+        "end": 58
+      },
+      "over": 20.0
+    },
+    {
+      "product": {
+        "id": "915ed2e20e44922c1f27751e6c2a356b",
+        "code": "CORPORATIVO SUPERIOR ENF",
+        "name": "Essencial (enf.)"
+      },
+      "age": {
+        "start": 59
+      },
+      "over": 10.0
+    },
+    {
+      "product": {
+        "id": "6c07e026335cdcbfe3c231d59326bc95",
+        "code": "CORPORATIVO SUPERIOR APT",
+        "name": "Essencial (apt.)"
+      },
+      "age": {
+        "start": 0,
+        "end": 18
+      },
+      "over": 13.0
+    },
+    {
+      "product": {
+        "id": "6c07e026335cdcbfe3c231d59326bc95",
+        "code": "CORPORATIVO SUPERIOR APT",
+        "name": "Essencial (apt.)"
+      },
+      "age": {
+        "start": 19,
+        "end": 23
+      },
+      "over": 15.0
+    },
+    {
+      "product": {
+        "id": "6c07e026335cdcbfe3c231d59326bc95",
+        "code": "CORPORATIVO SUPERIOR APT",
+        "name": "Essencial (apt.)"
+      },
+      "age": {
+        "start": 24,
+        "end": 28
+      },
+      "over": 15.0
+    },
+    {
+      "product": {
+        "id": "6c07e026335cdcbfe3c231d59326bc95",
+        "code": "CORPORATIVO SUPERIOR APT",
+        "name": "Essencial (apt.)"
+      },
+      "age": {
+        "start": 29,
+        "end": 33
+      },
+      "over": 12.0
+    },
+    {
+      "product": {
+        "id": "6c07e026335cdcbfe3c231d59326bc95",
+        "code": "CORPORATIVO SUPERIOR APT",
+        "name": "Essencial (apt.)"
+      },
+      "age": {
+        "start": 34,
+        "end": 38
+      },
+      "over": 12.0
+    },
+    {
+      "product": {
+        "id": "6c07e026335cdcbfe3c231d59326bc95",
+        "code": "CORPORATIVO SUPERIOR APT",
+        "name": "Essencial (apt.)"
+      },
+      "age": {
+        "start": 39,
+        "end": 43
+      },
+      "over": 12.0
+    },
+    {
+      "product": {
+        "id": "6c07e026335cdcbfe3c231d59326bc95",
+        "code": "CORPORATIVO SUPERIOR APT",
+        "name": "Essencial (apt.)"
+      },
+      "age": {
+        "start": 44,
+        "end": 48
+      },
+      "over": 13.0
+    },
+    {
+      "product": {
+        "id": "6c07e026335cdcbfe3c231d59326bc95",
+        "code": "CORPORATIVO SUPERIOR APT",
+        "name": "Essencial (apt.)"
+      },
+      "age": {
+        "start": 49,
+        "end": 53
+      },
+      "over": 17.0
+    },
+    {
+      "product": {
+        "id": "6c07e026335cdcbfe3c231d59326bc95",
+        "code": "CORPORATIVO SUPERIOR APT",
+        "name": "Essencial (apt.)"
+      },
+      "age": {
+        "start": 54,
+        "end": 58
+      },
+      "over": 20.0
+    },
+    {
+      "product": {
+        "id": "6c07e026335cdcbfe3c231d59326bc95",
+        "code": "CORPORATIVO SUPERIOR APT",
+        "name": "Essencial (apt.)"
+      },
+      "age": {
+        "start": 59
+      },
+      "over": 13.0
+    },
+    {
+      "product": {
+        "id": "e699d5afb08b7a16fb4e9c707353fe48",
+        "code": "CORPORATIVO INFERIOR ENF",
+        "name": "BEAR"
+      },
+      "age": {
+        "start": 0,
+        "end": 18
+      },
+      "over": 15.0
+    },
+    {
+      "product": {
+        "id": "e699d5afb08b7a16fb4e9c707353fe48",
+        "code": "CORPORATIVO INFERIOR ENF",
+        "name": "BEAR"
+      },
+      "age": {
+        "start": 19,
+        "end": 23
+      },
+      "over": 17.0
+    },
+    {
+      "product": {
+        "id": "e699d5afb08b7a16fb4e9c707353fe48",
+        "code": "CORPORATIVO INFERIOR ENF",
+        "name": "BEAR"
+      },
+      "age": {
+        "start": 24,
+        "end": 28
+      },
+      "over": 12.0
+    },
+    {
+      "product": {
+        "id": "e699d5afb08b7a16fb4e9c707353fe48",
+        "code": "CORPORATIVO INFERIOR ENF",
+        "name": "BEAR"
+      },
+      "age": {
+        "start": 29,
+        "end": 33
+      },
+      "over": 12.0
+    },
+    {
+      "product": {
+        "id": "e699d5afb08b7a16fb4e9c707353fe48",
+        "code": "CORPORATIVO INFERIOR ENF",
+        "name": "BEAR"
+      },
+      "age": {
+        "start": 34,
+        "end": 38
+      },
+      "over": 10.0
+    },
+    {
+      "product": {
+        "id": "e699d5afb08b7a16fb4e9c707353fe48",
+        "code": "CORPORATIVO INFERIOR ENF",
+        "name": "BEAR"
+      },
+      "age": {
+        "start": 39,
+        "end": 43
+      },
+      "over": 9.0
+    },
+    {
+      "product": {
+        "id": "e699d5afb08b7a16fb4e9c707353fe48",
+        "code": "CORPORATIVO INFERIOR ENF",
+        "name": "BEAR"
+      },
+      "age": {
+        "start": 44,
+        "end": 48
+      },
+      "over": 14.0
+    },
+    {
+      "product": {
+        "id": "e699d5afb08b7a16fb4e9c707353fe48",
+        "code": "CORPORATIVO INFERIOR ENF",
+        "name": "BEAR"
+      },
+      "age": {
+        "start": 49,
+        "end": 53
+      },
+      "over": 17.0
+    },
+    {
+      "product": {
+        "id": "e699d5afb08b7a16fb4e9c707353fe48",
+        "code": "CORPORATIVO INFERIOR ENF",
+        "name": "BEAR"
+      },
+      "age": {
+        "start": 54,
+        "end": 58
+      },
+      "over": 20.0
+    },
+    {
+      "product": {
+        "id": "e699d5afb08b7a16fb4e9c707353fe48",
+        "code": "CORPORATIVO INFERIOR ENF",
+        "name": "BEAR"
+      },
+      "age": {
+        "start": 59
+      },
+      "over": 14.53
+    },
+    {
+      "product": {
+        "id": "91e1ece4f5c7528f4916e81a01f6d925",
+        "code": "CORPORATIVO INFERIOR APT",
+        "name": "BEAR+"
+      },
+      "age": {
+        "start": 0,
+        "end": 18
+      },
+      "over": 17.0
+    },
+    {
+      "product": {
+        "id": "91e1ece4f5c7528f4916e81a01f6d925",
+        "code": "CORPORATIVO INFERIOR APT",
+        "name": "BEAR+"
+      },
+      "age": {
+        "start": 19,
+        "end": 23
+      },
+      "over": 17.0
+    },
+    {
+      "product": {
+        "id": "91e1ece4f5c7528f4916e81a01f6d925",
+        "code": "CORPORATIVO INFERIOR APT",
+        "name": "BEAR+"
+      },
+      "age": {
+        "start": 24,
+        "end": 28
+      },
+      "over": 17.0
+    },
+    {
+      "product": {
+        "id": "91e1ece4f5c7528f4916e81a01f6d925",
+        "code": "CORPORATIVO INFERIOR APT",
+        "name": "BEAR+"
+      },
+      "age": {
+        "start": 29,
+        "end": 33
+      },
+      "over": 14.0
+    },
+    {
+      "product": {
+        "id": "91e1ece4f5c7528f4916e81a01f6d925",
+        "code": "CORPORATIVO INFERIOR APT",
+        "name": "BEAR+"
+      },
+      "age": {
+        "start": 34,
+        "end": 38
+      },
+      "over": 14.0
+    },
+    {
+      "product": {
+        "id": "91e1ece4f5c7528f4916e81a01f6d925",
+        "code": "CORPORATIVO INFERIOR APT",
+        "name": "BEAR+"
+      },
+      "age": {
+        "start": 39,
+        "end": 43
+      },
+      "over": 12.0
+    },
+    {
+      "product": {
+        "id": "91e1ece4f5c7528f4916e81a01f6d925",
+        "code": "CORPORATIVO INFERIOR APT",
+        "name": "BEAR+"
+      },
+      "age": {
+        "start": 44,
+        "end": 48
+      },
+      "over": 14.0
+    },
+    {
+      "product": {
+        "id": "91e1ece4f5c7528f4916e81a01f6d925",
+        "code": "CORPORATIVO INFERIOR APT",
+        "name": "BEAR+"
+      },
+      "age": {
+        "start": 49,
+        "end": 53
+      },
+      "over": 20.0
+    },
+    {
+      "product": {
+        "id": "91e1ece4f5c7528f4916e81a01f6d925",
+        "code": "CORPORATIVO INFERIOR APT",
+        "name": "BEAR+"
+      },
+      "age": {
+        "start": 54,
+        "end": 58
+      },
+      "over": 20.0
+    },
+    {
+      "product": {
+        "id": "91e1ece4f5c7528f4916e81a01f6d925",
+        "code": "CORPORATIVO INFERIOR APT",
+        "name": "BEAR+"
+      },
+      "age": {
+        "start": 59
+      },
+      "over": 14.53
+    },
+    {
+      "product": {
+        "id": "793e32506337f8896c04cdfabdaadf39",
+        "code": "CORPORATIVO MELHOR ENF",
+        "name": "BULL"
+      },
+      "age": {
+        "start": 0,
+        "end": 18
+      },
+      "over": 12.0
+    },
+    {
+      "product": {
+        "id": "793e32506337f8896c04cdfabdaadf39",
+        "code": "CORPORATIVO MELHOR ENF",
+        "name": "BULL"
+      },
+      "age": {
+        "start": 19,
+        "end": 23
+      },
+      "over": 12.0
+    },
+    {
+      "product": {
+        "id": "793e32506337f8896c04cdfabdaadf39",
+        "code": "CORPORATIVO MELHOR ENF",
+        "name": "BULL"
+      },
+      "age": {
+        "start": 24,
+        "end": 28
+      },
+      "over": 10.0
+    },
+    {
+      "product": {
+        "id": "793e32506337f8896c04cdfabdaadf39",
+        "code": "CORPORATIVO MELHOR ENF",
+        "name": "BULL"
+      },
+      "age": {
+        "start": 29,
+        "end": 33
+      },
+      "over": 9.0
+    },
+    {
+      "product": {
+        "id": "793e32506337f8896c04cdfabdaadf39",
+        "code": "CORPORATIVO MELHOR ENF",
+        "name": "BULL"
+      },
+      "age": {
+        "start": 34,
+        "end": 38
+      },
+      "over": 9.0
+    },
+    {
+      "product": {
+        "id": "793e32506337f8896c04cdfabdaadf39",
+        "code": "CORPORATIVO MELHOR ENF",
+        "name": "BULL"
+      },
+      "age": {
+        "start": 39,
+        "end": 43
+      },
+      "over": 9.0
+    },
+    {
+      "product": {
+        "id": "793e32506337f8896c04cdfabdaadf39",
+        "code": "CORPORATIVO MELHOR ENF",
+        "name": "BULL"
+      },
+      "age": {
+        "start": 44,
+        "end": 48
+      },
+      "over": 10.0
+    },
+    {
+      "product": {
+        "id": "793e32506337f8896c04cdfabdaadf39",
+        "code": "CORPORATIVO MELHOR ENF",
+        "name": "BULL"
+      },
+      "age": {
+        "start": 49,
+        "end": 53
+      },
+      "over": 10.0
+    },
+    {
+      "product": {
+        "id": "793e32506337f8896c04cdfabdaadf39",
+        "code": "CORPORATIVO MELHOR ENF",
+        "name": "BULL"
+      },
+      "age": {
+        "start": 54,
+        "end": 58
+      },
+      "over": 12.0
+    },
+    {
+      "product": {
+        "id": "793e32506337f8896c04cdfabdaadf39",
+        "code": "CORPORATIVO MELHOR ENF",
+        "name": "BULL"
+      },
+      "age": {
+        "start": 59
+      },
+      "over": 10.0
+    },
+    {
+      "product": {
+        "id": "909897d476098dc270cc286598172e1c",
+        "code": "CORPORATIVO MELHOR APT",
+        "name": "BULL+"
+      },
+      "age": {
+        "start": 0,
+        "end": 18
+      },
+      "over": 22.0
+    },
+    {
+      "product": {
+        "id": "909897d476098dc270cc286598172e1c",
+        "code": "CORPORATIVO MELHOR APT",
+        "name": "BULL+"
+      },
+      "age": {
+        "start": 19,
+        "end": 23
+      },
+      "over": 20.0
+    },
+    {
+      "product": {
+        "id": "909897d476098dc270cc286598172e1c",
+        "code": "CORPORATIVO MELHOR APT",
+        "name": "BULL+"
+      },
+      "age": {
+        "start": 24,
+        "end": 28
+      },
+      "over": 20.0
+    },
+    {
+      "product": {
+        "id": "909897d476098dc270cc286598172e1c",
+        "code": "CORPORATIVO MELHOR APT",
+        "name": "BULL+"
+      },
+      "age": {
+        "start": 29,
+        "end": 33
+      },
+      "over": 20.0
+    },
+    {
+      "product": {
+        "id": "909897d476098dc270cc286598172e1c",
+        "code": "CORPORATIVO MELHOR APT",
+        "name": "BULL+"
+      },
+      "age": {
+        "start": 34,
+        "end": 38
+      },
+      "over": 20.0
+    },
+    {
+      "product": {
+        "id": "909897d476098dc270cc286598172e1c",
+        "code": "CORPORATIVO MELHOR APT",
+        "name": "BULL+"
+      },
+      "age": {
+        "start": 39,
+        "end": 43
+      },
+      "over": 15.0
+    },
+    {
+      "product": {
+        "id": "909897d476098dc270cc286598172e1c",
+        "code": "CORPORATIVO MELHOR APT",
+        "name": "BULL+"
+      },
+      "age": {
+        "start": 44,
+        "end": 48
+      },
+      "over": 20.0
+    },
+    {
+      "product": {
+        "id": "909897d476098dc270cc286598172e1c",
+        "code": "CORPORATIVO MELHOR APT",
+        "name": "BULL+"
+      },
+      "age": {
+        "start": 49,
+        "end": 53
+      },
+      "over": 20.0
+    },
+    {
+      "product": {
+        "id": "909897d476098dc270cc286598172e1c",
+        "code": "CORPORATIVO MELHOR APT",
+        "name": "BULL+"
+      },
+      "age": {
+        "start": 54,
+        "end": 58
+      },
+      "over": 20.0
+    },
+    {
+      "product": {
+        "id": "909897d476098dc270cc286598172e1c",
+        "code": "CORPORATIVO MELHOR APT",
+        "name": "BULL+"
+      },
+      "age": {
+        "start": 59
+      },
+      "over": 20.0
+    },
+    {
+      "product": {
+        "id": "7eeccd91e54633e78e553a380a7690bb",
+        "code": "CORPORATIVO PLATINUM APT",
+        "name": "UNICORN"
+      },
+      "age": {
+        "start": 0,
+        "end": 18
+      },
+      "over": 17.0
+    },
+    {
+      "product": {
+        "id": "7eeccd91e54633e78e553a380a7690bb",
+        "code": "CORPORATIVO PLATINUM APT",
+        "name": "UNICORN"
+      },
+      "age": {
+        "start": 19,
+        "end": 23
+      },
+      "over": 17.0
+    },
+    {
+      "product": {
+        "id": "7eeccd91e54633e78e553a380a7690bb",
+        "code": "CORPORATIVO PLATINUM APT",
+        "name": "UNICORN"
+      },
+      "age": {
+        "start": 24,
+        "end": 28
+      },
+      "over": 15.0
+    },
+    {
+      "product": {
+        "id": "7eeccd91e54633e78e553a380a7690bb",
+        "code": "CORPORATIVO PLATINUM APT",
+        "name": "UNICORN"
+      },
+      "age": {
+        "start": 29,
+        "end": 33
+      },
+      "over": 20.0
+    },
+    {
+      "product": {
+        "id": "7eeccd91e54633e78e553a380a7690bb",
+        "code": "CORPORATIVO PLATINUM APT",
+        "name": "UNICORN"
+      },
+      "age": {
+        "start": 34,
+        "end": 38
+      },
+      "over": 18.0
+    },
+    {
+      "product": {
+        "id": "7eeccd91e54633e78e553a380a7690bb",
+        "code": "CORPORATIVO PLATINUM APT",
+        "name": "UNICORN"
+      },
+      "age": {
+        "start": 39,
+        "end": 43
+      },
+      "over": 15.0
+    },
+    {
+      "product": {
+        "id": "7eeccd91e54633e78e553a380a7690bb",
+        "code": "CORPORATIVO PLATINUM APT",
+        "name": "UNICORN"
+      },
+      "age": {
+        "start": 44,
+        "end": 48
+      },
+      "over": 17.0
+    },
+    {
+      "product": {
+        "id": "7eeccd91e54633e78e553a380a7690bb",
+        "code": "CORPORATIVO PLATINUM APT",
+        "name": "UNICORN"
+      },
+      "age": {
+        "start": 49,
+        "end": 53
+      },
+      "over": 17.0
+    },
+    {
+      "product": {
+        "id": "7eeccd91e54633e78e553a380a7690bb",
+        "code": "CORPORATIVO PLATINUM APT",
+        "name": "UNICORN"
+      },
+      "age": {
+        "start": 54,
+        "end": 58
+      },
+      "over": 17.0
+    },
+    {
+      "product": {
+        "id": "7eeccd91e54633e78e553a380a7690bb",
+        "code": "CORPORATIVO PLATINUM APT",
+        "name": "UNICORN"
+      },
+      "age": {
+        "start": 59
+      },
+      "over": 17.0
+    }
+  ]
+}

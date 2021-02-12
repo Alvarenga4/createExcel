@@ -1,0 +1,40 @@
+[
+  {
+    "companyGroupId": 22,
+    "groupCompanyName": "Empresa do seu zé",
+    "tax": 6,
+    "taxInstallment": "01/11",
+    "companies": [
+      {
+        "people": [
+          {
+            "Contrato": "22994023039",
+            "Código": "994.1090.28055400-8",
+            "Beneficiário": "JOSE ALEXANDRE LAFALCE",
+            "Matrícula": "00181327821",
+            "CPF": "001.813.278-21",
+            "Plano": "CORPORATIVO SUPERIOR APTO",
+            "Tipo": "T",
+            "Idade": "64",
+            "Dependência": "",
+            "Data Limite": "",
+            "Data Inclusão": "01/12/2019",
+            "Data Exclusão": "",
+            "Rubrica": "Premio Titular FE Implantação ",
+            "Valor": "1.661,38",
+            "valorFinal": "1.770,38",
+            "LCAT": "",
+            "Lotação": "Não Informado",
+            "D/A": "N",
+            "Data Nascimento": "04/01/1956"
+          }
+        ],
+        "copart": "0,00",
+        "totalValue": "3322,76",
+        "contractNumber": "22994023039",
+        "comp": "01/2021",
+        "companyId": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "bts-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "standard": "^16.0.3"
+  },
+  "dependencies": {
+    "config": "^3.3.3",
+    "excel4node": "^1.7.2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "App": {
+    "file": {
+      "source": "../../json/padrao.json",
+      "target": "./targetfiles/cne-file-01.xlsx"
+    }
+  }
+}
