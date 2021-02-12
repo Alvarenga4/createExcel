@@ -56,7 +56,6 @@ const createExcelForCompanies = companyGroups => {
     ws.cell(totalRowsOfPerson + 5, 13).string(`Reajuste Dezembro ${installment}/12`)
     ws.cell(totalRowsOfPerson + 5, 15).number(taxInstallment).style(styleForPrice)
     ws.cell(totalRowsOfPerson + 6, 15).number(totalValue).style(styleForPrice)
-    //ws.cell(totalRowsOfPerson + 2, 15).formula(`=sum(O2:O${totalRowsOfPerson + 1})`).style(styleForPrice)
     wb.write(`${groupCompanyName} - Demonstrativo Analitico de Faturamento_${competencia.replace('/', '_')}.xlsx`)
   })
 }
@@ -84,4 +83,4 @@ function headers(wb, groupCompanyName) {
   ws.cell(4, 19).string('Data Nascimento')
   return ws
 }
-createExcelForCompanies(companyGroups)
+module.exports = (companyGroups) => createExcelForCompanies(companyGroups)

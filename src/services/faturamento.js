@@ -1,5 +1,4 @@
 const xl = require('excel4node')
-const padrao = require('../json/file.json')
 
 const numberFormat = 'R$ #,##0.00; ($#,##0.00)'
 
@@ -72,10 +71,14 @@ resize = (ws) => {
   ws.row(8).setHeight(50)
 }
 
-getNumber = (x) => Number(x.replace('.', '').replace(',', '.'))
+const getNumber = (x) => {
+  //console.log(x)
+  return Number(x.replace(/\./g, "").replace(',', '.'))
+}
 
 
-generateBillingXls = () => {
+generateBillingXls = (data) => {
+
   const wb = new xl.Workbook()
   const ws = wb.addWorksheet('Aba')
 
@@ -93,14 +96,11 @@ generateBillingXls = () => {
 
   let c = 2
 
-  console.log(padrao[0])
-  padrao.forEach(groupCompany => {
+  data.forEach(groupCompany => {
     c++
-
-
     ws.cell(c, 1).number(groupCompany.Empresas
       .map(x => x.ValorFinal)
-      .reduce((ac, cv) => ac + cv) + padrao[0].Reajuste)
+      .reduce((ac, cv) => ac + cv) + data[0].Reajuste)
       .style(styleNumber)
     ws.cell(c, 2).number(groupCompany.Empresas
       .map(empresa => (getNumber(empresa.ValorTotal)))
@@ -116,12 +116,12 @@ generateBillingXls = () => {
   })
 
 
-  const fileName = `Cobrancas_${padrao[0].Competencia.replace('/', '_')}.xlsx`
+  const fileName = `Cobrancas_${data[0].Competencia.replace('/', '_')}.xlsx`
 
   wb.write(fileName);
 }
 
 
-module.exports = generateBillingXls()
+module.exports = (data) => generateBillingXls(data)
 
 

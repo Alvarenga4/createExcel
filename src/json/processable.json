@@ -56,7 +56,7 @@
           }
         ],
         "NumeroContrato": "22994023039",
-        "totalValue": "3322,76",
+        "ValorTotal": "3322,76",
         "ValorFinal": 3754.7188
       },
       {
@@ -107,7 +107,7 @@
           }
         ],
         "NumeroContrato": "22994023042",
-        "totalValue": "1972,44",
+        "ValorTotal": "1972,44",
         "ValorFinal": 2366.928
       },
       {
@@ -180,7 +180,7 @@
           }
         ],
         "NumeroContrato": "22994023044",
-        "totalValue": "1053,29",
+        "ValorTotal": "1053,29",
         "ValorFinal": 1185.2228
       },
       {
@@ -209,7 +209,7 @@
           }
         ],
         "NumeroContrato": "22994023048",
-        "totalValue": "468,95",
+        "ValorTotal": "468,95",
         "ValorFinal": 525.2239999999999
       },
       {
@@ -238,7 +238,7 @@
           }
         ],
         "NumeroContrato": "22994023049",
-        "totalValue": "499,49",
+        "ValorTotal": "499,49",
         "ValorFinal": 559.4288
       },
       {
@@ -267,7 +267,7 @@
           }
         ],
         "NumeroContrato": "22994023051",
-        "totalValue": "499,49",
+        "ValorTotal": "499,49",
         "ValorFinal": 559.4288
       },
       {
@@ -318,7 +318,7 @@
           }
         ],
         "NumeroContrato": "22994023057",
-        "totalValue": "1161,58",
+        "ValorTotal": "1161,58",
         "ValorFinal": 1307.8959
       },
       {
@@ -347,7 +347,7 @@
           }
         ],
         "NumeroContrato": "22994023060",
-        "totalValue": "468,95",
+        "ValorTotal": "468,95",
         "ValorFinal": 525.2239999999999
       },
       {
@@ -992,7 +992,7 @@
           }
         ],
         "NumeroContrato": "22994023088",
-        "totalValue": "13344,58",
+        "ValorTotal": "13344,58",
         "ValorFinal": 15057.884699999997
       },
       {
@@ -1043,7 +1043,7 @@
           }
         ],
         "NumeroContrato": "22994023089",
-        "totalValue": "1078,89",
+        "ValorTotal": "1078,89",
         "ValorFinal": 1208.3568
       },
       {
@@ -1072,7 +1072,7 @@
           }
         ],
         "NumeroContrato": "22994023497",
-        "totalValue": "468,95",
+        "ValorTotal": "468,95",
         "ValorFinal": 525.2239999999999
       },
       {
@@ -1101,7 +1101,7 @@
           }
         ],
         "NumeroContrato": "22994023501",
-        "totalValue": "424,37",
+        "ValorTotal": "424,37",
         "ValorFinal": 488.0255
       },
       {
@@ -1240,7 +1240,7 @@
           }
         ],
         "NumeroContrato": "22994023637",
-        "totalValue": "2769,12",
+        "ValorTotal": "2769,12",
         "ValorFinal": 3114.1454999999996
       },
       {
@@ -1269,7 +1269,7 @@
           }
         ],
         "NumeroContrato": "22994023650",
-        "totalValue": "424,37",
+        "ValorTotal": "424,37",
         "ValorFinal": 488.0255
       },
       {
@@ -1408,7 +1408,7 @@
           }
         ],
         "NumeroContrato": "22994023671",
-        "totalValue": "2652,19",
+        "ValorTotal": "2652,19",
         "ValorFinal": 2973.2217999999993
       },
       {
@@ -1965,7 +1965,7 @@
           }
         ],
         "NumeroContrato": "22994023750",
-        "totalValue": "8451,60",
+        "ValorTotal": "8451,60",
         "ValorFinal": 9631.739399999999
       },
       {
@@ -1994,7 +1994,7 @@
           }
         ],
         "NumeroContrato": "22994023806",
-        "totalValue": "468,95",
+        "ValorTotal": "468,95",
         "ValorFinal": 525.2239999999999
       },
       {
@@ -2023,7 +2023,7 @@
           }
         ],
         "NumeroContrato": "22994023910",
-        "totalValue": "424,37",
+        "ValorTotal": "424,37",
         "ValorFinal": 488.0255
       },
       {
@@ -2052,7 +2052,7 @@
           }
         ],
         "NumeroContrato": "22994023926",
-        "totalValue": "267,89",
+        "ValorTotal": "267,89",
         "ValorFinal": 300.03679999999997
       },
       {
@@ -2147,7 +2147,7 @@
           }
         ],
         "NumeroContrato": "22994023959",
-        "totalValue": "1522,24",
+        "ValorTotal": "1522,24",
         "ValorFinal": 1710.4467999999997
       },
       {
@@ -2176,7 +2176,7 @@
           }
         ],
         "NumeroContrato": "22994023967",
-        "totalValue": "468,95",
+        "ValorTotal": "468,95",
         "ValorFinal": 525.2239999999999
       },
       {
@@ -2645,7 +2645,7 @@
           }
         ],
         "NumeroContrato": "22994023977",
-        "totalValue": "14053,59",
+        "ValorTotal": "14053,59",
         "ValorFinal": 15973.996199999998
       },
       {
@@ -2674,7 +2674,7 @@
           }
         ],
         "NumeroContrato": "22994024017",
-        "totalValue": "424,37",
+        "ValorTotal": "424,37",
         "ValorFinal": 488.0255
       },
       {
@@ -2703,7 +2703,7 @@
           }
         ],
         "NumeroContrato": "22994024022",
-        "totalValue": "424,37",
+        "ValorTotal": "424,37",
         "ValorFinal": 488.0255
       },
       {
@@ -2732,7 +2732,7 @@
           }
         ],
         "NumeroContrato": "22994024023",
-        "totalValue": "424,37",
+        "ValorTotal": "424,37",
         "ValorFinal": 488.0255
       },
       {
@@ -2761,7 +2761,7 @@
           }
         ],
         "NumeroContrato": "22994024040",
-        "totalValue": "499,49",
+        "ValorTotal": "499,49",
         "ValorFinal": 559.4288
       },
       {
@@ -2878,7 +2878,7 @@
           }
         ],
         "NumeroContrato": "22994024046",
-        "totalValue": "1633,69",
+        "ValorTotal": "1633,69",
         "ValorFinal": 1851.1277999999998
       },
       {
@@ -2907,7 +2907,7 @@
           }
         ],
         "NumeroContrato": "22994024050",
-        "totalValue": "424,37",
+        "ValorTotal": "424,37",
         "ValorFinal": 488.0255
       },
       {
@@ -3024,7 +3024,7 @@
           }
         ],
         "NumeroContrato": "22994024051",
-        "totalValue": "2410,62",
+        "ValorTotal": "2410,62",
         "ValorFinal": 2712.6254999999996
       },
       {
@@ -3119,7 +3119,7 @@
           }
         ],
         "NumeroContrato": "22994024067",
-        "totalValue": "1447,12",
+        "ValorTotal": "1447,12",
         "ValorFinal": 1639.0434999999998
       },
       {
@@ -3148,7 +3148,7 @@
           }
         ],
         "NumeroContrato": "22994024070",
-        "totalValue": "579,40",
+        "ValorTotal": "579,40",
         "ValorFinal": 648.928
       },
       {
@@ -3177,7 +3177,7 @@
           }
         ],
         "NumeroContrato": "22994024252",
-        "totalValue": "468,95",
+        "ValorTotal": "468,95",
         "ValorFinal": 525.2239999999999
       },
       {
@@ -3250,7 +3250,7 @@
           }
         ],
         "NumeroContrato": "22994024257",
-        "totalValue": "1392,81",
+        "ValorTotal": "1392,81",
         "ValorFinal": 1572.6783
       },
       {
@@ -3301,7 +3301,7 @@
           }
         ],
         "NumeroContrato": "22994024305",
-        "totalValue": "968,44",
+        "ValorTotal": "968,44",
         "ValorFinal": 1084.6527999999998
       },
       {
@@ -3352,7 +3352,7 @@
           }
         ],
         "NumeroContrato": "22994024387",
-        "totalValue": "856,30",
+        "ValorTotal": "856,30",
         "ValorFinal": 961.825
       },
       {
@@ -3447,7 +3447,7 @@
           }
         ],
         "NumeroContrato": "22994024425",
-        "totalValue": "1017,62",
+        "ValorTotal": "1017,62",
         "ValorFinal": 1150.4318999999998
       },
       {
@@ -3520,7 +3520,7 @@
           }
         ],
         "NumeroContrato": "22994024434",
-        "totalValue": "1275,88",
+        "ValorTotal": "1275,88",
         "ValorFinal": 1431.7546
       },
       {
@@ -3571,7 +3571,7 @@
           }
         ],
         "NumeroContrato": "22994024621",
-        "totalValue": "776,39",
+        "ValorTotal": "776,39",
         "ValorFinal": 872.3258000000001
       },
       {
@@ -3600,7 +3600,7 @@
           }
         ],
         "NumeroContrato": "22994024688",
-        "totalValue": "468,95",
+        "ValorTotal": "468,95",
         "ValorFinal": 525.2239999999999
       },
       {
@@ -3651,7 +3651,7 @@
           }
         ],
         "NumeroContrato": "22994024690",
-        "totalValue": "893,32",
+        "ValorTotal": "893,32",
         "ValorFinal": 1013.2494999999999
       },
       {
@@ -3680,7 +3680,7 @@
           }
         ],
         "NumeroContrato": "22994024749",
-        "totalValue": "296,03",
+        "ValorTotal": "296,03",
         "ValorFinal": 331.55359999999996
       },
       {
@@ -3709,7 +3709,7 @@
           }
         ],
         "NumeroContrato": "22994024796",
-        "totalValue": "468,95",
+        "ValorTotal": "468,95",
         "ValorFinal": 525.2239999999999
       },
       {
@@ -3782,7 +3782,7 @@
           }
         ],
         "NumeroContrato": "22994024812",
-        "totalValue": "1631,99",
+        "ValorTotal": "1631,99",
         "ValorFinal": 1848.0565339999998
       },
       {
@@ -3811,7 +3811,7 @@
           }
         ],
         "NumeroContrato": "22994024820",
-        "totalValue": "259,25",
+        "ValorTotal": "259,25",
         "ValorFinal": 290.36
       },
       {
@@ -3840,7 +3840,7 @@
           }
         ],
         "NumeroContrato": "22994024848",
-        "totalValue": "468,95",
+        "ValorTotal": "468,95",
         "ValorFinal": 525.2239999999999
       },
       {
@@ -3979,7 +3979,7 @@
           }
         ],
         "NumeroContrato": "22994024960",
-        "totalValue": "1747,95",
+        "ValorTotal": "1747,95",
         "ValorFinal": 1972.7925999999998
       },
       {
@@ -4052,7 +4052,7 @@
           }
         ],
         "NumeroContrato": "22994024962",
-        "totalValue": "1091,71",
+        "ValorTotal": "1091,71",
         "ValorFinal": 1219.1778
       },
       {
@@ -4125,7 +4125,7 @@
           }
         ],
         "NumeroContrato": "22994024967",
-        "totalValue": "1275,88",
+        "ValorTotal": "1275,88",
         "ValorFinal": 1431.7546
       },
       {
@@ -4198,7 +4198,7 @@
           }
         ],
         "NumeroContrato": "22994025035",
-        "totalValue": "2241,28",
+        "ValorTotal": "2241,28",
         "ValorFinal": 2643.3968
       },
       {
@@ -4249,7 +4249,7 @@
           }
         ],
         "NumeroContrato": "22994025061",
-        "totalValue": "893,32",
+        "ValorTotal": "893,32",
         "ValorFinal": 1013.2494999999999
       },
       {
@@ -4344,7 +4344,7 @@
           }
         ],
         "NumeroContrato": "22994025104",
-        "totalValue": "1377,09",
+        "ValorTotal": "1377,09",
         "ValorFinal": 1597.1159
       },
       {
@@ -4439,7 +4439,7 @@
           }
         ],
         "NumeroContrato": "22994025130",
-        "totalValue": "1552,78",
+        "ValorTotal": "1552,78",
         "ValorFinal": 1744.6516
       },
       {
@@ -4490,7 +4490,7 @@
           }
         ],
         "NumeroContrato": "22994025140",
-        "totalValue": "540,56",
+        "ValorTotal": "540,56",
         "ValorFinal": 599.6984
       },
       {
@@ -4563,7 +4563,7 @@
           }
         ],
         "NumeroContrato": "22994025173",
-        "totalValue": "1459,11",
+        "ValorTotal": "1459,11",
         "ValorFinal": 1744.5135
       },
       {
@@ -4592,7 +4592,7 @@
           }
         ],
         "NumeroContrato": "22994025238",
-        "totalValue": "499,49",
+        "ValorTotal": "499,49",
         "ValorFinal": 559.4288
       },
       {
@@ -4665,7 +4665,7 @@
           }
         ],
         "NumeroContrato": "22994025273",
-        "totalValue": "786,15",
+        "ValorTotal": "786,15",
         "ValorFinal": 879.4255999999999
       },
       {
@@ -4716,7 +4716,7 @@
           }
         ],
         "NumeroContrato": "22994025279",
-        "totalValue": "848,74",
+        "ValorTotal": "848,74",
         "ValorFinal": 976.051
       },
       {
@@ -4745,7 +4745,7 @@
           }
         ],
         "NumeroContrato": "22994025453",
-        "totalValue": "296,03",
+        "ValorTotal": "296,03",
         "ValorFinal": 331.55359999999996
       },
       {
@@ -4796,7 +4796,7 @@
           }
         ],
         "NumeroContrato": "22994025463",
-        "totalValue": "1003,77",
+        "ValorTotal": "1003,77",
         "ValorFinal": 1136.9535
       },
       {
@@ -4847,7 +4847,7 @@
           }
         ],
         "NumeroContrato": "22994025494",
-        "totalValue": "1573,17",
+        "ValorTotal": "1573,17",
         "ValorFinal": 1814.7040339999999
       },
       {
@@ -4898,7 +4898,7 @@
           }
         ],
         "NumeroContrato": "22994025501",
-        "totalValue": "481,84",
+        "ValorTotal": "481,84",
         "ValorFinal": 550.3583
       },
       {
@@ -4949,7 +4949,7 @@
           }
         ],
         "NumeroContrato": "22994025625",
-        "totalValue": "612,03",
+        "ValorTotal": "612,03",
         "ValorFinal": 699.4622
       },
       {
@@ -4978,7 +4978,7 @@
           }
         ],
         "NumeroContrato": "22994025651",
-        "totalValue": "424,37",
+        "ValorTotal": "424,37",
         "ValorFinal": 488.0255
       },
       {
@@ -5051,7 +5051,7 @@
           }
         ],
         "NumeroContrato": "22994025692",
-        "totalValue": "645,63",
+        "ValorTotal": "645,63",
         "ValorFinal": 733.5935999999999
       },
       {
@@ -5080,7 +5080,7 @@
           }
         ],
         "NumeroContrato": "22994025730",
-        "totalValue": "499,49",
+        "ValorTotal": "499,49",
         "ValorFinal": 559.4288
       },
       {
@@ -5197,7 +5197,7 @@
           }
         ],
         "NumeroContrato": "22994025731",
-        "totalValue": "1564,32",
+        "ValorTotal": "1564,32",
         "ValorFinal": 1813.6415
       },
       {
@@ -5248,7 +5248,7 @@
           }
         ],
         "NumeroContrato": "22994025752",
-        "totalValue": "937,90",
+        "ValorTotal": "937,90",
         "ValorFinal": 1050.4479999999999
       },
       {
@@ -5343,7 +5343,7 @@
           }
         ],
         "NumeroContrato": "22994025853",
-        "totalValue": "1141,88",
+        "ValorTotal": "1141,88",
         "ValorFinal": 1315.6131
       },
       {
@@ -5394,7 +5394,7 @@
           }
         ],
         "NumeroContrato": "22994025887",
-        "totalValue": "1485,71",
+        "ValorTotal": "1485,71",
         "ValorFinal": 1742.8928
       },
       {
@@ -5467,7 +5467,7 @@
           }
         ],
         "NumeroContrato": "22994025900",
-        "totalValue": "1325,25",
+        "ValorTotal": "1325,25",
         "ValorFinal": 1487.049
       },
       {
@@ -5518,7 +5518,7 @@
           }
         ],
         "NumeroContrato": "22994025918",
-        "totalValue": "856,30",
+        "ValorTotal": "856,30",
         "ValorFinal": 961.825
       },
       {
@@ -5569,7 +5569,7 @@
           }
         ],
         "NumeroContrato": "22994025926",
-        "totalValue": "856,30",
+        "ValorTotal": "856,30",
         "ValorFinal": 961.825
       },
       {
@@ -5642,7 +5642,7 @@
           }
         ],
         "NumeroContrato": "22994025953",
-        "totalValue": "1275,88",
+        "ValorTotal": "1275,88",
         "ValorFinal": 1431.7546
       },
       {
@@ -5693,7 +5693,7 @@
           }
         ],
         "NumeroContrato": "22994025954",
-        "totalValue": "856,30",
+        "ValorTotal": "856,30",
         "ValorFinal": 961.825
       },
       {
@@ -5964,7 +5964,7 @@
           }
         ],
         "NumeroContrato": "22994025992",
-        "totalValue": "3968,55",
+        "ValorTotal": "3968,55",
         "ValorFinal": 4461.8982
       },
       {
@@ -5993,7 +5993,7 @@
           }
         ],
         "NumeroContrato": "22994026019",
-        "totalValue": "424,37",
+        "ValorTotal": "424,37",
         "ValorFinal": 488.0255
       },
       {
@@ -6044,7 +6044,7 @@
           }
         ],
         "NumeroContrato": "22994026076",
-        "totalValue": "968,44",
+        "ValorTotal": "968,44",
         "ValorFinal": 1084.6527999999998
       },
       {
@@ -6139,7 +6139,7 @@
           }
         ],
         "NumeroContrato": "22994026120",
-        "totalValue": "1552,78",
+        "ValorTotal": "1552,78",
         "ValorFinal": 1744.6516
       },
       {
@@ -6190,7 +6190,7 @@
           }
         ],
         "NumeroContrato": "22994026148",
-        "totalValue": "1245,16",
+        "ValorTotal": "1245,16",
         "ValorFinal": 1494.192
       },
       {
@@ -6263,7 +6263,7 @@
           }
         ],
         "NumeroContrato": "22994026177",
-        "totalValue": "1104,10",
+        "ValorTotal": "1104,10",
         "ValorFinal": 1262.5362
       },
       {
@@ -6380,7 +6380,7 @@
           }
         ],
         "NumeroContrato": "22994026255",
-        "totalValue": "1541,03",
+        "ValorTotal": "1541,03",
         "ValorFinal": 1708.6743999999999
       },
       {
@@ -6431,7 +6431,7 @@
           }
         ],
         "NumeroContrato": "22994026289",
-        "totalValue": "1117,00",
+        "ValorTotal": "1117,00",
         "ValorFinal": 1270.6974
       },
       {
@@ -6460,7 +6460,7 @@
           }
         ],
         "NumeroContrato": "22994026304",
-        "totalValue": "213,95",
+        "ValorTotal": "213,95",
         "ValorFinal": 250.3215
       },
       {
@@ -6489,7 +6489,7 @@
           }
         ],
         "NumeroContrato": "22994026336",
-        "totalValue": "424,37",
+        "ValorTotal": "424,37",
         "ValorFinal": 488.0255
       },
       {
@@ -6540,7 +6540,7 @@
           }
         ],
         "NumeroContrato": "22994026339",
-        "totalValue": "540,56",
+        "ValorTotal": "540,56",
         "ValorFinal": 599.6984
       },
       {
@@ -6591,7 +6591,7 @@
           }
         ],
         "NumeroContrato": "22994026369",
-        "totalValue": "630,64",
+        "ValorTotal": "630,64",
         "ValorFinal": 693.704
       },
       {
@@ -6620,7 +6620,7 @@
           }
         ],
         "NumeroContrato": "22994026388",
-        "totalValue": "468,95",
+        "ValorTotal": "468,95",
         "ValorFinal": 525.2239999999999
       },
       {
@@ -6737,7 +6737,7 @@
           }
         ],
         "NumeroContrato": "22994026424",
-        "totalValue": "1989,50",
+        "ValorTotal": "1989,50",
         "ValorFinal": 2236.547
       },
       {
@@ -6810,7 +6810,7 @@
           }
         ],
         "NumeroContrato": "22994026425",
-        "totalValue": "1229,51",
+        "ValorTotal": "1229,51",
         "ValorFinal": 1412.0153
       },
       {
@@ -6905,7 +6905,7 @@
           }
         ],
         "NumeroContrato": "22994026431",
-        "totalValue": "1522,24",
+        "ValorTotal": "1522,24",
         "ValorFinal": 1710.4467999999997
       },
       {
@@ -6956,7 +6956,7 @@
           }
         ],
         "NumeroContrato": "22994026452",
-        "totalValue": "1325,14",
+        "ValorTotal": "1325,14",
         "ValorFinal": 1573.222
       },
       {
@@ -6985,7 +6985,7 @@
           }
         ],
         "NumeroContrato": "22994026488",
-        "totalValue": "315,32",
+        "ValorTotal": "315,32",
         "ValorFinal": 346.852
       },
       {
@@ -7036,7 +7036,7 @@
           }
         ],
         "NumeroContrato": "22994026567",
-        "totalValue": "490,12",
+        "ValorTotal": "490,12",
         "ValorFinal": 547.872
       },
       {
@@ -7087,7 +7087,7 @@
           }
         ],
         "NumeroContrato": "22994027008",
-        "totalValue": "592,06",
+        "ValorTotal": "592,06",
         "ValorFinal": 663.1071999999999
       },
       {
@@ -7182,7 +7182,7 @@
           }
         ],
         "NumeroContrato": "22994027176",
-        "totalValue": "932,81",
+        "ValorTotal": "932,81",
         "ValorFinal": 1048.9288
       },
       {
@@ -7255,7 +7255,7 @@
           }
         ],
         "NumeroContrato": "22994027185",
-        "totalValue": "855,88",
+        "ValorTotal": "855,88",
         "ValorFinal": 946.5504
       },
       {
@@ -7328,7 +7328,7 @@
           }
         ],
         "NumeroContrato": "23994024275",
-        "totalValue": "1414,86",
+        "ValorTotal": "1414,86",
         "ValorFinal": 1660.6691
       },
       {
@@ -7379,7 +7379,7 @@
           }
         ],
         "NumeroContrato": "23994024485",
-        "totalValue": "633,65",
+        "ValorTotal": "633,65",
         "ValorFinal": 698.7152
       }
     ]

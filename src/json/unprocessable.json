@@ -11596,5 +11596,103 @@
       "id": "6a204bd89f3c8348afd5c77c717a097a",
       "name": "Vitta"
     }
+  },
+  {
+    "Pessoas": [
+      {
+        "Contrato": "22994027196",
+        "Código": "994.1467.26711531-5",
+        "Beneficiário": "Chicão da Massa",
+        "Matrícula": "",
+        "CPF": "480.417.568-75",
+        "Plano": "CORPORATIVO EFETIVO APTO",
+        "Tipo": "D",
+        "Idade": "20",
+        "Dependência": "Filho(A)",
+        "Data Limite": "30/06/2030",
+        "Data Inclusão": "01/01/2021",
+        "Data Exclusão": "",
+        "Rubrica": "Premio Dependente FE Implantação ",
+        "Valor": "239,41",
+        "LCAT": "",
+        "Lotação": "Não Informado",
+        "D/A": "N",
+        "Data Nascimento": "11/05/2000"
+      },
+      {
+        "Contrato": "22994027196",
+        "Código": "994.1467.26711531-5",
+        "Beneficiário": "Barcelos The Voice",
+        "Matrícula": "",
+        "CPF": "480.417.568-75",
+        "Plano": "CORPORATIVO EFETIVO APTO",
+        "Tipo": "D",
+        "Idade": "20",
+        "Dependência": "Filho(A)",
+        "Data Limite": "30/06/2030",
+        "Data Inclusão": "01/01/2021",
+        "Data Exclusão": "",
+        "Rubrica": "Premio Dependente FE Implantação ",
+        "Valor": "239,41",
+        "LCAT": "",
+        "Lotação": "Não Informado",
+        "D/A": "N",
+        "Data Nascimento": "11/05/2000"
+      },
+      {
+        "Contrato": "22994027196",
+        "Código": "994.1467.26711531-5",
+        "Beneficiário": "Flavio Baile de Favela",
+        "Matrícula": "",
+        "CPF": "480.417.568-75",
+        "Plano": "CORPORATIVO EFETIVO APTO",
+        "Tipo": "D",
+        "Idade": "20",
+        "Dependência": "Filho(A)",
+        "Data Limite": "30/06/2030",
+        "Data Inclusão": "01/01/2021",
+        "Data Exclusão": "",
+        "Rubrica": "Premio Dependente FE Implantação ",
+        "Valor": "239,41",
+        "LCAT": "",
+        "Lotação": "Não Informado",
+        "D/A": "N",
+        "Data Nascimento": "11/05/2000"
+      },
+      {
+        "Contrato": "22994027196",
+        "Código": "994.1467.26711531-5",
+        "Beneficiário": "Marcelão AWS DevOps Master",
+        "Matrícula": "",
+        "CPF": "480.417.568-75",
+        "Plano": "CORPORATIVO EFETIVO APTO",
+        "Tipo": "D",
+        "Idade": "20",
+        "Dependência": "Filho(A)",
+        "Data Limite": "30/06/2030",
+        "Data Inclusão": "01/01/2021",
+        "Data Exclusão": "",
+        "Rubrica": "Premio Dependente FE Implantação ",
+        "Valor": "239,41",
+        "LCAT": "",
+        "Lotação": "Não Informado",
+        "D/A": "N",
+        "Data Nascimento": "11/05/2000"
+      }
+    ],
+    "Copart": "0,00",
+    "ValorTotal": "968,09",
+    "NumeroContrato": "22994027196",
+    "Competencia": "01/2021",
+    "Reajuste": 1200,
+    "Parcela": 2,
+    "Empresa": {
+      "id": "075bc8899ea9f527b763ab37fceeff5f",
+      "name": "bradesco-seguros"
+    },
+    "GrupoEmpresa": {
+      "id": "6a204bd89f3c8348afd5c77c717a097a",
+      "name": "Vitta"
+    }
   }
 ]
